@@ -1,5 +1,7 @@
 # NYC-Taxi-Fare-Estimation-using-Regression
 
+![image](https://github.com/manvith1604/NYC-Taxi-Fare-Estimation-using-Regression/assets/66794160/d02e26e2-1d32-4d4b-a8a9-e18a9057328a)
+
 ## Objective
 New York City Taxi and Limousine Fare - Predicting your fare for the next ride with respect to parameters like Trip Distance, pick up, Drop off time, etc.
 
